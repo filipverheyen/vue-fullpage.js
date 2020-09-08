@@ -131,6 +131,7 @@
     "IE 10"
   ],
   "dependencies": {
-    "fullpage.js": "^3.0.9"
+    "fullpage.js": "^3.0.9",
+    "vue-removed-hook-mixin": "^0.1.1"
   }
 }
